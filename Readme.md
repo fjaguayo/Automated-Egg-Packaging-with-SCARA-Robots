@@ -20,8 +20,6 @@ Estimated total implementation cost: €71,000 – €149,000 depending on compo
 
 The full technical report (in Spanish) is available in this repository as a PDF. It includes system diagrams, wiring schematics, the GRAFCET sequence, PLC input/output tables, robot simulation screenshots, and the complete cost breakdown.
 
-[Download the full report (PDF)](./TFG_EMPAQUETADO_DE_HUEVOS_AUTOMATIZADO_MEDIANTE_EL_USO_DE_ROBOTS_SCARA.pdf)
-
 ## Tools used
 
 Robot programming was done in Omron ACE 4.4. Electrical schematics were drawn in a PLC wiring tool with a Siemens S7-1200 as the control unit. Communication between components runs over Modbus RTU/TCP.
